@@ -1,0 +1,11 @@
+Model Information:
+* title:	Keith Thomson Rifle
+* source:	https://sketchfab.com/3d-models/keith-thomson-rifle-0fb3618f0feb4621a86bc8297fc58415
+* author:	Johnathon Goswick (https://sketchfab.com/goswick3)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Keith Thomson Rifle" (https://sketchfab.com/3d-models/keith-thomson-rifle-0fb3618f0feb4621a86bc8297fc58415) by Johnathon Goswick (https://sketchfab.com/goswick3) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

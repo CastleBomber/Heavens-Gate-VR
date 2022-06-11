@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fountain with three putts, Brno Lužánky
+* source:	https://sketchfab.com/3d-models/fountain-with-three-putts-brno-luzanky-430b9e5354484860b8b41505e9b63298
+* author:	3dhdscan (https://sketchfab.com/3dhdscan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fountain with three putts, Brno Lužánky" (https://sketchfab.com/3d-models/fountain-with-three-putts-brno-luzanky-430b9e5354484860b8b41505e9b63298) by 3dhdscan (https://sketchfab.com/3dhdscan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
